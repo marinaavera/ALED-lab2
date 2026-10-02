@@ -2,6 +2,7 @@ package es.upm.aled.lab2.kinematics;
 
 import es.upm.aled.lab2.gui.Node;
 
+
 /**
  * This class implements a forward kinematics algorithm using recursion. It
  * expects a tree of Segments (defined by its length and angle with respect to
